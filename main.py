@@ -1,5 +1,4 @@
-from Encryption.Decryption import Decryption
-from Encryption.Encryption import Encryption
+from Crypting import Decryption, Encryption
 
 def main():
     encryption = Encryption()
